@@ -1,2 +1,3 @@
 # proyectoEjemplo
 mi primer repositorio
+Autor: carlos laudecina...
